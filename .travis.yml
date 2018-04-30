@@ -1,2 +1,2 @@
 language: csharp
-solution: "./Rake/Rake.sln"
+solution: "Rake.sln"
